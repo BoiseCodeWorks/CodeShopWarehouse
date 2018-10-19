@@ -37,7 +37,7 @@ In this checkpoint you are responsible for building out a warehouse management s
 
   public class OrdersService
   {
-    private readonly IOrderService;
+    private readonly _ordersRepo;
     //...
   }
 
