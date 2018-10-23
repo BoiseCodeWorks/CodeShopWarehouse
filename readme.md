@@ -13,7 +13,7 @@ In this checkpoint you are responsible for building out a warehouse management s
     - Manditory Tests
       - UnresolvedFillOrdersCanBeRetrieved
       - UnresolvedFillOrderCanBeProcessed
-      - ProcessedFillOrderCannontBeModified
+      - ProcessedFillOrderCannotBeModified
   - Application must have a Web Interface
     - See all open orders
     - Create an Order
