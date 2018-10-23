@@ -1,7 +1,7 @@
 CodeShop Warehouse
 ==================
 
-In this checkpoint you are responsible for building out a warehouse management system. This warehouse needs to manage the stock of it's products through the use of Fill Orders. Fill Orders can be created ahead of when they are processed. There are two types of Fill Orders, One for adding stock, and one for removing stock from the product. Each Fill Order needs to be timestamped when it is Processed. Once a Fill Order is processed it should not be modified. If a mistake occurs a new Fill Order should be generated to correct the previous order. 
+In this checkpoint you are responsible for building out a warehouse management system. This warehouse needs to manage the stock of it's products through the use of Fill Orders. Fill Orders can be created ahead of when they are processed. There are two types of Fill Orders. One for adding stock, and one for removing stock from the product. Each Fill Order needs to be timestamped when it is Processed. Once a Fill Order is processed it should not be modified. If a mistake occurs a new Fill Order should be generated to correct the previous order. 
 
 ### Base Requirements
   - Application Layers must be separated into at least 4 Layers
